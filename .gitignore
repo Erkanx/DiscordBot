@@ -8,6 +8,10 @@ yarn-error.log*
 # Bot Token
 config.json
 
+# Visual Studio Code Store
+.vscode
+.DS_Store
+
 # Runtime data
 pids
 *.pid
