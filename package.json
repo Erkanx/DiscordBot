@@ -1,8 +1,8 @@
 {
-  “name”: "FeelsGoodBot”,
-  "version”: "1.0.0",
-  "description": "Insert good description here”,
+  "name": "FeelsGoodBot",
+  "version": "1.0.0",
+  "description": "Insert good description here",
   "main”: “bot.js",
-  "author”: “Erkanx, Dullfin”,
-  "dependencies”: {}
+  "author": "Erkanx, Dullfin",
+  "dependencies": {}
 }
